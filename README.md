@@ -12,6 +12,4 @@ https://www.patreon.com/digiteng
 
 <img src="https://i.ibb.co/GfFm0Xpx/1-0-19-8-C-4-85-21-0-0-0-20240926004551.jpg" alt="1-0-19-8-C-4-85-21-0-0-0-20240926004551" border="0">
 
-<img src="https://i.ibb.co/4wGwZ3Y1/1-0-19-78-4-B0-110-820000-0-0-0-20240926105135.jpg" alt="1-0-19-78-4-B0-110-820000-0-0-0-20240926105135" border="0">
-
 #enigma2, #e2, #openatv, #openpli, #poster, #movie, #film, #cover, #actual
