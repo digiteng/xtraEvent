@@ -12,8 +12,8 @@ https://www.patreon.com/digiteng
 
 <img src="https://i.ibb.co/GfFm0Xpx/1-0-19-8-C-4-85-21-0-0-0-20240926004551.jpg" alt="1-0-19-8-C-4-85-21-0-0-0-20240926004551" border="0">
 
-![Alt text](<img src="https://i.ibb.co/ZRhvvZ7Q/i1.jpg" alt="i1" border="0">)
-![Alt text](<img src="https://i.ibb.co/Rkybs06Q/i2.jpg" alt="i2" border="0">)
+<img src="https://i.ibb.co/ZRhvvZ7Q/i1.jpg" alt="i1" border="0">
+<img src="https://i.ibb.co/Rkybs06Q/i2.jpg" alt="i2" border="0">
 <img src="https://i.ibb.co/9kRHNpKj/mi3.jpg" alt="mi3" border="0">
 <img src="https://i.ibb.co/BHQmhHzw/ti2.jpg" alt="ti2" border="0">
 <img src="https://i.ibb.co/bjd7gR8T/xi2.jpg" alt="xi2" border="0">
