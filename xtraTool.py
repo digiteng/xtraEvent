@@ -24,7 +24,7 @@ noBacdrop = "/usr/lib/enigma2/python/Plugins/Extensions/xtraEvent/pic/film3.jpg"
 msg_2 = "\c00ff8800 \n \c00ef4c4c No Internet Connection !!!"
 lang = config.plugins.xtrvnt.searchLang.value
 trailer_res = "720p"
-xx=""
+xaaa=""
 img = "/etc/issue"
 if os.path.exists(img):
 	with open(img, "r") as f:
